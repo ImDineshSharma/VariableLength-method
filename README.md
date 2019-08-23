@@ -1,2 +1,2 @@
-# VariableLength-method
+#varargs, ellipsis
 core java
